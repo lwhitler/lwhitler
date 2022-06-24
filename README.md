@@ -1,3 +1,3 @@
-Hello! My name Lily Whitler, I am a graduate student in astronomy and astrophysics at the University of Arizona where I work with Dan Stark studying galaxy formation and evolution in the early Universe. I graduated from Arizona State University in May 2020 with dual degrees in physics and math, with a focus in astrophysics. As an undergraduate, I was a member of the Low-Frequency Cosmology Lab, where I worked on understanding the Epoch of Reionization (when the hydrogen in the universe was ionized by the first stars and galaxies) via the 21 cm line from neutral hydrogen.
+Hello! My name Lily Whitler, I am a graduate student in astronomy and astrophysics at the University of Arizona where I work with Dan Stark studying galaxy formation and evolution in the early Universe.
 
 My pronouns are _she/her/hers_.
