@@ -1,3 +1,1 @@
-Hello! My name Lily Whitler, I am a graduate student in astronomy and astrophysics at the University of Arizona where I work with Dan Stark studying galaxy formation and evolution in the early Universe.
-
-My pronouns are _she/her/hers_.
+Hello! My name Lily Whitler, I am a Kavli Institute Fellow at the University of Cambridge. My research focuses on galaxy formation and evolution in the early Universe and the process of cosmic reionization.
